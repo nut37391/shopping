@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/a-value/Documents/newProj/Shoppping/shopping/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/Users/a-value/Documents/newProj/Shoppping/shopping/build/app"
+    bootClassPath="/Users/a-value/Library/Android/sdk/platforms/android-33/android.jar:/Users/a-value/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
